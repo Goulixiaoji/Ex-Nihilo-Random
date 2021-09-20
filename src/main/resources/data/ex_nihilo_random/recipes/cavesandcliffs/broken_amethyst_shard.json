@@ -1,0 +1,16 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.15,
+      "mesh": "iron"
+    }
+  ],
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "result": {
+    "item": "ex_nihilo_random:broken_amethyst_shard"
+  },
+  "waterlogged": true
+}

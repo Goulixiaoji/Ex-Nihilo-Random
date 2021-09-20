@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:broken_amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "cavesandcliffs:amethyst_shard",
+    "count": 1
+  }
+}
