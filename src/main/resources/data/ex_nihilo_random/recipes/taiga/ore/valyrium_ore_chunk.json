@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:valyrium_ore_chunk"
+    }
+  },
+  "result": {
+    "item": "taiga:valyrium_ore",
+    "count": 1
+  }
+}

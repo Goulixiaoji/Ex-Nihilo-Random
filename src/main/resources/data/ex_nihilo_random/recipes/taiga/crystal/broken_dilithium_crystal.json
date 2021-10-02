@@ -2,11 +2,11 @@
   "type": "exnihilosequentia:sieve",
   "rolls": [
     {
-      "chance": 0.15,
+      "chance": 0.06,
       "mesh": "iron"
     },
     {
-      "chance": 0.1,
+      "chance": 0.06,
       "mesh": "diamond"
     }
   ],
@@ -14,6 +14,6 @@
     "item": "minecraft:gravel"
   },
   "result": {
-    "item": "ex_nihilo_random:broken_amethyst_shard"
+    "item": "ex_nihilo_random:broken_dilithium_crystal"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:prometheum_ore_chunk"
+    }
+  },
+  "result": {
+    "item": "taiga:prometheum_ore",
+    "count": 1
+  }
+}

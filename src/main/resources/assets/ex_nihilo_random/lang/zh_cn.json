@@ -3,7 +3,25 @@
   "language.region": "中国大陆",
   "language.code": "zh_cn",
 
-  "itemGroup.ExNihiloRandom": "无中生有： 随想",
+  "itemGroup.ExNihiloRandom": "无中生有：随想",
 
-  "item.ex_nihilo_random.broken_amethyst_shard": "破碎紫水晶碎片"
+  "item.ex_nihilo_random.goulixiaojis_pants": "够立小激的胖次",
+
+  "item.ex_nihilo_random.broken_amethyst_shard": "破碎紫水晶碎片",
+
+  "item.ex_nihilo_random.broken_tiberium_crystal" : "破碎泰伯利亚水晶",
+  "item.ex_nihilo_random.broken_dilithium_crystal" : "破碎双锂水晶",
+  "item.ex_nihilo_random.aurorium_ore_chunk" : "奥罗拉矿石碎块",
+  "item.ex_nihilo_random.prometheum_ore_chunk" : "钷矿石碎块",
+  "item.ex_nihilo_random.duranite_ore_chunk" : "杜兰特矿石碎块",
+  "item.ex_nihilo_random.valyrium_ore_chunk" : "瓦雷利亚矿石碎块",
+  "item.ex_nihilo_random.vibranium_ore_chunk" : "振金矿石碎块",
+  "item.ex_nihilo_random.karmesine_ore_chunk" : "卡梅塞恩矿石碎块",
+  "item.ex_nihilo_random.ovium_ore_chunk" : "欧维姆矿石碎块",
+  "item.ex_nihilo_random.jauxum_ore_chunk" : "杰西姆矿石碎块",
+  "item.ex_nihilo_random.palladium_ore_chunk" : "钯矿石碎块",
+  "item.ex_nihilo_random.uru_ore_chunk" : "乌鲁矿石碎块",
+  "item.ex_nihilo_random.osram_ore_chunk" : "欧司朗矿石碎块",
+  "item.ex_nihilo_random.eezo_ore_chunk" : "零素矿石碎块",
+  "item.ex_nihilo_random.abyssum_ore_chunk" : "深渊金属矿石碎块"
 }

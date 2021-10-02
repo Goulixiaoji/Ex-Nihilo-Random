@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:broken_tiberium_crystal"
+    }
+  },
+  "result": {
+    "item": "taiga:tiberium_crystal",
+    "count": 1
+  }
+}

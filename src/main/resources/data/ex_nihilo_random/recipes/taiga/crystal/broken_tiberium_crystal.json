@@ -2,18 +2,18 @@
   "type": "exnihilosequentia:sieve",
   "rolls": [
     {
-      "chance": 0.15,
+      "chance": 0.03,
       "mesh": "iron"
     },
     {
-      "chance": 0.1,
+      "chance": 0.03,
       "mesh": "diamond"
     }
   ],
   "input": {
-    "item": "minecraft:gravel"
+    "item": "exnihilosequentia:crushed_netherrack"
   },
   "result": {
-    "item": "ex_nihilo_random:broken_amethyst_shard"
+    "item": "ex_nihilo_random:broken_tiberium_crystal"
   }
 }

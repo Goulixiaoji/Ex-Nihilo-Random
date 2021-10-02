@@ -2,11 +2,7 @@
   "type": "exnihilosequentia:sieve",
   "rolls": [
     {
-      "chance": 0.15,
-      "mesh": "iron"
-    },
-    {
-      "chance": 0.1,
+      "chance": 0.01,
       "mesh": "diamond"
     }
   ],
@@ -14,6 +10,6 @@
     "item": "minecraft:gravel"
   },
   "result": {
-    "item": "ex_nihilo_random:broken_amethyst_shard"
+    "item": "ex_nihilo_random:karmesine_ore_chunk"
   }
 }

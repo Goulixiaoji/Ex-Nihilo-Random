@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:osram_ore_chunk"
+    }
+  },
+  "result": {
+    "item": "taiga:osram_ore",
+    "count": 1
+  }
+}

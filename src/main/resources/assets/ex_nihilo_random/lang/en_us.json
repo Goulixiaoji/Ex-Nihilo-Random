@@ -5,5 +5,24 @@
 
   "itemGroup.ExNihiloRandom": "Ex Nihilo: Random",
 
-  "item.ex_nihilo_random.broken_amethyst_shard": "Broken Amethyst Shard"
+  "item.ex_nihilo_random.goulixiaojis_pants": "Goulixiaoji's Pants",
+
+  "item.ex_nihilo_random.broken_amethyst_shard": "Broken Amethyst Shard",
+
+  "item.ex_nihilo_random.broken_tiberium_crystal" : "Broken Tiberium Crystal",
+  "item.ex_nihilo_random.broken_dilithium_crystal" : "Broken Dilithium Crystal",
+  "item.ex_nihilo_random.aurorium_ore_chunk" : "Aurorium Ore Chunk",
+  "item.ex_nihilo_random.prometheum_ore_chunk" : "Prometheum Ore Chunk",
+  "item.ex_nihilo_random.duranite_ore_chunk" : "Duranite Ore Chunk",
+  "item.ex_nihilo_random.valyrium_ore_chunk" : "Valyrium Ore Chunk",
+  "item.ex_nihilo_random.vibranium_ore_chunk" : "Vibranium Ore Chunk",
+  "item.ex_nihilo_random.karmesine_ore_chunk" : "Karmesine Ore Chunk",
+  "item.ex_nihilo_random.ovium_ore_chunk" : "Ovium Ore Chunk",
+  "item.ex_nihilo_random.jauxum_ore_chunk" : "Jauxum Ore Chunk",
+  "item.ex_nihilo_random.palladium_ore_chunk" : "Palladium Ore Chunk",
+  "item.ex_nihilo_random.uru_ore_chunk" : "Uru Ore Chunk",
+  "item.ex_nihilo_random.osram_ore_chunk" : "Osram Ore Chunk",
+  "item.ex_nihilo_random.eezo_ore_chunk" : "Eezo Ore Chunk",
+  "item.ex_nihilo_random.abyssum_ore_chunk" : "Abyssum Ore Chunk"
+
 }

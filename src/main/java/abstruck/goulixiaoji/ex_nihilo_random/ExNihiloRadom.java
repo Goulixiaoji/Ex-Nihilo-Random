@@ -7,12 +7,16 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(ExNihiloRadom.MOD_ID)
+@Mod(
+        ExNihiloRadom.MOD_ID
+)
 public class ExNihiloRadom {
-    private static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "ex_nihilo_random";
+    private static final Logger LOGGER = LogManager.getLogger(MOD_ID);
+
 
     public ExNihiloRadom() {
+        new ItemRegistry();
         ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
         MinecraftForge.EVENT_BUS.register(this);
     }

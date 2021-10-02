@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ex_nihilo_random:palladium_ore_chunk"
+    }
+  },
+  "result": {
+    "item": "taiga:palladium_ore",
+    "count": 1
+  }
+}

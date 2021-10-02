@@ -1,0 +1,15 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.01,
+      "mesh": "diamond"
+    }
+  ],
+  "input": {
+    "item": "exnihilosequentia:crushed_end_stone"
+  },
+  "result": {
+    "item": "ex_nihilo_random:aurorium_ore_chunk"
+  }
+}
